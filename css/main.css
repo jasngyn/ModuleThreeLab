@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+  box-sizing:border-box; 
+}
+
+html, 
+body {
+  height:100%;
+	font-size: 10px;
+	font-family: 'Raleway', sans-serif;
+}
+
+header > h1 {
+	font-size: 4rem;
+	font-family: 'Playfair Display', serif;
+}
+
+section > h1 {
+	font-size: 3rem;
+}
+
+.wrapper {
+  width:60%; 
+  margin: 0 auto; 
+}
+
+p { 
+  line-height: 1.7;
+	font-size: 1.5rem;
+}
+
+section > h2 {
+	font-size: 2rem;
+}
+
+ol {
+	font-size: 1.5rem;
+}
+
+footer > p {
+	font-size: 0.9rem;
+}
+
+a:hover {
+	color: #F98F79;
+	text-decoration: overline;
+}
+
+ul {
+	list-style-type: square;
+	padding: 0;
+}
+
+ol {
+	list-style-type: lower-alpha;
+	background: #F8D1D1;
+	padding: 20px;
+	display: table;
+}
+
+ol > li {
+	background: #EFECEC;
+	padding: 2px;
+}
+
+/*STEP ONE 
+Using an appropriate unit of measurement, change the default sizes of your headings and body paragraph and the line-height of your body text. Ensure that the size you choose is appropriate for readability.*/ 
+
+
+/* STEP TWO - Include interesting fonts */ 
+/* Choose a Google Font and a web font that work well together. Include both font selections using CSS (i.e. one for headings, one for body copy).
+
+
+/* STEP THREE *  - Style the links / 
+/* Style the links included in the first paragraph in an interesting and creative way. Remember to style them in the appropriate order and follow best practices */ 
+
+
+/* STEP FOUR - Style the list */ 
+/* - Style the list so that it maintains vertical rhythym with other content on the page
+   - Give the unordered list square bullets 
+  -  Give the ordered list lower alphabetical bullets 
+  - Add any other creative touches to style the list and embedded list 
+*/
+
+
+/* STEP FIVE - Zip up your code and submit on BB! This is Module 3 lab! If you want to take extra time to complete, it's due on March 11th @ 11:59pm */ 
+
+
